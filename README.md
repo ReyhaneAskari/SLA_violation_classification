@@ -20,8 +20,11 @@ If you use this code, please cite us here:
 `
 @article{hemmat2016sla,
   title={SLA violation prediction in cloud computing: A machine learning perspective},
+  
   author={Hemmat, Reyhane Askari and Hafid, Abdelhakim},
+  
   journal={arXiv preprint arXiv:1611.10338},
+  
   year={2016}
 }
 `
