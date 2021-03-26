@@ -1,6 +1,6 @@
 # SLA_violation_classification
 
-This is the code for the paper: https://arxiv.org/pdf/1611.10338.pdf
+This is the code for the paper: SLA Violation Prediction In Cloud Computing: A Machine Learning Perspective: https://arxiv.org/pdf/1611.10338.pdf
 
 Cloud computing reduces the maintenance costs of services and allows users to access on demand services without being involved in technical implementation details. The relationship between a cloud provider and a customer is governed with a \textit{Service Level Agreement} (SLA) that is established to define the level of the service and its associated costs. SLA usually contains specific parameters and a minimum level of quality for each element of the service that is negotiated between a cloud provider and a customer.  The failure of providing the service is called an \textit{SLA violation}.
 
